@@ -1,0 +1,139 @@
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe.config
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.pdb
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Form1.resources
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Properties.Resources.resources
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.exe
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.pdb
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.exe
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.pdb
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe.config
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.pdb
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Form1.resources
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Properties.Resources.resources
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe.config
+C:\Users\user\Desktop\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe
+C:\Users\user\Desktop\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.pdb
+C:\Users\user\Desktop\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Form1.resources
+C:\Users\user\Desktop\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Properties.Resources.resources
+C:\Users\user\Desktop\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+C:\Users\user\Desktop\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.exe
+C:\Users\user\Desktop\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.pdb
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe.config
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.pdb
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.SuggestedBindingRedirects.cache
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Form1.resources
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Properties.Resources.resources
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.exe
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.pdb
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe.config
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.pdb
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.SuggestedBindingRedirects.cache
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Form1.resources
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Properties.Resources.resources
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.exe
+Z:\99. 임시폴더\tcp\완성본\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.pdb
+E:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+E:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.SuggestedBindingRedirects.cache
+E:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Form1.resources
+E:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Properties.Resources.resources
+E:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+E:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+E:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.exe
+E:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.pdb
+E:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe.config
+E:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe
+E:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.pdb
+D:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe.config
+D:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe
+D:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.pdb
+D:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+D:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Form1.resources
+D:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Properties.Resources.resources
+D:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+D:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+D:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.exe
+D:\연구실\과제\뇌파\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.pdb
+C:\Users\csi\Desktop\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe.config
+C:\Users\csi\Desktop\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe
+C:\Users\csi\Desktop\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.pdb
+C:\Users\csi\Desktop\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+C:\Users\csi\Desktop\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi\Desktop\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Form1.resources
+C:\Users\csi\Desktop\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Properties.Resources.resources
+C:\Users\csi\Desktop\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+C:\Users\csi\Desktop\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+C:\Users\csi\Desktop\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.exe
+C:\Users\csi\Desktop\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.pdb
+E:\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe.config
+E:\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe
+E:\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.pdb
+E:\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+E:\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.SuggestedBindingRedirects.cache
+E:\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Form1.resources
+E:\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Properties.Resources.resources
+E:\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+E:\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+E:\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.exe
+E:\NeuroSkyDroneCMD - 성빈\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.pdb
+C:\Users\csi\Desktop\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe.config
+C:\Users\csi\Desktop\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe
+C:\Users\csi\Desktop\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.pdb
+C:\Users\csi\Desktop\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+C:\Users\csi\Desktop\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi\Desktop\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Form1.resources
+C:\Users\csi\Desktop\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Properties.Resources.resources
+C:\Users\csi\Desktop\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+C:\Users\csi\Desktop\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+C:\Users\csi\Desktop\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.exe
+C:\Users\csi\Desktop\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.pdb
+\\csrl.synology.me\CSRL_SERVER\99. 임시폴더\tcp\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe.config
+\\csrl.synology.me\CSRL_SERVER\99. 임시폴더\tcp\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe
+\\csrl.synology.me\CSRL_SERVER\99. 임시폴더\tcp\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.pdb
+\\csrl.synology.me\CSRL_SERVER\99. 임시폴더\tcp\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+\\csrl.synology.me\CSRL_SERVER\99. 임시폴더\tcp\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.SuggestedBindingRedirects.cache
+\\csrl.synology.me\CSRL_SERVER\99. 임시폴더\tcp\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Form1.resources
+\\csrl.synology.me\CSRL_SERVER\99. 임시폴더\tcp\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Properties.Resources.resources
+\\csrl.synology.me\CSRL_SERVER\99. 임시폴더\tcp\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+\\csrl.synology.me\CSRL_SERVER\99. 임시폴더\tcp\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+\\csrl.synology.me\CSRL_SERVER\99. 임시폴더\tcp\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.exe
+\\csrl.synology.me\CSRL_SERVER\99. 임시폴더\tcp\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.pdb
+F:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe.config
+F:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe
+F:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.pdb
+F:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+F:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Form1.resources
+F:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Properties.Resources.resources
+F:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+F:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+F:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.exe
+F:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.pdb
+D:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe.config
+D:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.exe
+D:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\bin\Release\NeuroSkyDroneCMD.pdb
+D:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+D:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Form1.resources
+D:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.Properties.Resources.resources
+D:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+D:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+D:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.exe
+D:\2. 연구실\과제\뇌파\NeuroSkyDroneCMD_csi\NeuroSkyDroneCMD - 복사본\NeuroSkyDroneCMD\obj\Release\NeuroSkyDroneCMD.pdb

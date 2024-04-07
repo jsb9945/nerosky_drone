@@ -1,0 +1,31 @@
+C:\Users\Jeonghwna-home\source\repos\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Debug\NeuroSkyDroneCMD.exe.config
+C:\Users\Jeonghwna-home\source\repos\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Debug\NeuroSkyDroneCMD.exe
+C:\Users\Jeonghwna-home\source\repos\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Debug\NeuroSkyDroneCMD.pdb
+C:\Users\Jeonghwna-home\source\repos\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+C:\Users\Jeonghwna-home\source\repos\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.Properties.Resources.resources
+C:\Users\Jeonghwna-home\source\repos\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+C:\Users\Jeonghwna-home\source\repos\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+C:\Users\Jeonghwna-home\source\repos\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.exe
+C:\Users\Jeonghwna-home\source\repos\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.pdb
+C:\Users\Jeonghwna-home\source\repos\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.Form1.resources
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Debug\NeuroSkyDroneCMD.exe.config
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Debug\NeuroSkyDroneCMD.exe
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Debug\NeuroSkyDroneCMD.pdb
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.Form1.resources
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.Properties.Resources.resources
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.exe
+E:\OneDrive\OneDrive - konkuk.ac.kr\개인\개인 코드\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.pdb
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Debug\NeuroSkyDroneCMD.exe.config
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Debug\NeuroSkyDroneCMD.exe
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\bin\Debug\NeuroSkyDroneCMD.pdb
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.Form1.resources
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.Properties.Resources.resources
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.csproj.GenerateResource.cache
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.exe
+C:\Users\user\Desktop\NeuroSkyDroneCMD\NeuroSkyDroneCMD\obj\Debug\NeuroSkyDroneCMD.pdb
